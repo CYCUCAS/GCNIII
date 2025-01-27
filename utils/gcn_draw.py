@@ -81,7 +81,7 @@ def draw_train_error(train_error1, train_error2, train_error3, train_error4, tra
     plt.gca().spines['top'].set_visible(False)
     plt.gca().spines['right'].set_visible(False)
 
-    plt.savefig('gcn_3.png', dpi=1200)
+    plt.savefig('gcniii.png', dpi=1200)
     plt.show()
 
 draw_train_error(train_error, train_error_1, train_error_2, train_error_3, train_error_4)

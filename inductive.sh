@@ -1,0 +1,2 @@
+python -u inductive_train.py --model GCNII --layer 9 --hidden 2048 --alpha 0.5 --lamda 1 --dropout 0.2 --lr 0.001 --wd 0
+python -u inductive_train.py --model GCNIII --layer 9 --hidden 2048 --alpha 0.5 --lamda 1 --gamma 0.02 --dropout 0.2 --lr 0.001 --wd 0 --intersect_memory --initial_residual --identity_mapping

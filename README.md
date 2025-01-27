@@ -25,6 +25,3 @@ sh inductive.sh
 ```sh
 sh ablation.sh
 ```
-
-## Over-Generalization
-![Training error of the semi-supervised task on Cora with GCN, GCNII and GCNIII.](./images/example.png)

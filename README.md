@@ -31,12 +31,6 @@ sh ablation.sh
 If you find our codes useful, please consider citing our work. Thanks!
 
 ```
-@article{luo2024classic,
-  title={Classic GNNs are Strong Baselines: Reassessing GNNs for Node Classification},
-  author={Luo, Yuankai and Shi, Lei and Wu, Xiao-Ming},
-  journal={arXiv preprint arXiv:2406.08993},
-  year={2024}
-}
 @article{chen2025widedeeplearning,
       title={Wide & Deep Learning for Node Classification}, 
       author={Yancheng Chen and Wenguo Yang and Zhipeng Jiang},
